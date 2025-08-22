@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-tailwind-grouping",
+  "name": "tailwind-grouped-variants",
   "version": "0.1.0",
   "description": "Vite plugin to add Tailwind variant grouping syntax (md:(p-2 m-1)) for Tailwind v4+.",
   "main": "src/index.js",
