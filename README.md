@@ -1,4 +1,4 @@
-# vite-plugin-tailwind-grouping
+# tailwind-grouped-variants
 
 Adds support for Tailwind’s “grouped variant” syntax like:
 
